@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 static int total_nodes;
-void printValues(int A[], int size){
+void printValues(int A[], int size)
+{
 	int i;
    for (i = 0; i < size; i++) {
       printf("%*d", 5, A[i]);
