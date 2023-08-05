@@ -2,11 +2,11 @@
 int linearSearch(int a[], int n, int val) 
 {   
 	int i;
-  for (i = 0; i < n; i++)  
-    {  
-        if (a[i] == val)  
-        return i+1;  
-    }  
+  	for (i = 0; i < n; i++)  
+    	{  
+        	if (a[i] == val)  
+        		return i+1;  
+    	}  
   	return -1;  
 }  
 int main() 
