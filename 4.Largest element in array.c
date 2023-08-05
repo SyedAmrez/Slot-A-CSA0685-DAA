@@ -13,10 +13,10 @@ int main()
   	max=arr[0];
   	for (i = 1; i < n;i++) 
   	{
-    	if (max<arr[i]) 
+    		if (max<arr[i]) 
 		{
-      		max = arr[i];
-    	}
+      			max = arr[i];
+    		}
   	}
   	printf("Largest element = %.2lf",max);
   	return 0;
