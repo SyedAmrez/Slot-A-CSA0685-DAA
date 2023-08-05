@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <math.h>
+
 int main()
 {
     int originalNum, num, lastDigit, digits, sum;
