@@ -2,11 +2,11 @@
 void printPascal(int n)
 {
 	int j,i,k;
-    for (i = 1; i <= n; i++) 
+    	for (i = 1; i <= n; i++) 
 	{
-        for (k=1;k<=n-i;k++)
-        {
-        	printf("  ");	
+        	for (k=1;k<=n-i;k++)
+        	{
+        		printf("  ");	
 		}
         int coef = 1;
         for (j = 1; j <= i; j++) 
