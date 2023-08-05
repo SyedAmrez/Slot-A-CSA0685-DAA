@@ -1,4 +1,5 @@
 #include<stdio.h>
+
 int main()
 {
 	int n,rem=0,rev=0;
