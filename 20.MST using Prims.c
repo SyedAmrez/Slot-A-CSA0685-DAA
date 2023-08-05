@@ -1,7 +1,6 @@
 #include <limits.h>
 #include <stdbool.h>
 #include <stdio.h>
- 
 // Number of vertices in the graph
 #define V 5
  
