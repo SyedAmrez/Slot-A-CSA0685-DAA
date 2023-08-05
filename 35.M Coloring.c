@@ -2,8 +2,7 @@
  
 #include <stdbool.h>
 #include <stdio.h>
-#define V 4
- 
+#define V 4 
 void printSolution(int color[]);
 bool isSafe(bool graph[V][V], int color[])
 {
