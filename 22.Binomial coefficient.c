@@ -1,5 +1,4 @@
 #include <stdio.h>
- 
 // Returns value of Binomial Coefficient C(n, k)
 int binomialCoeff(int n, int k)
 {
