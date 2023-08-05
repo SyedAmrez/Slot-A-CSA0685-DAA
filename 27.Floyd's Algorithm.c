@@ -13,8 +13,8 @@ void floyd(int a[4][4], int n)
 				{
 					a[i][j]=a[i][k]+a[k][j];
 				}
-		    }
-	    }
+		    	}
+	    	}
 	}
 	printf("All Pairs Shortest Path is :\n");
 		for(i=0;i<n;i++)
