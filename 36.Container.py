@@ -11,8 +11,7 @@ def num_of_containers(n, x):
              if (cont[i][j] >= 1):         
                 count += 1                  
                 cont[i + 1][j] += (cont[i][j] - 1) / 2         
-                cont[i + 1][j + 1] += (cont[i][j] - 1) / 2
-                 
+                cont[i + 1][j + 1] += (cont[i][j] - 1) / 2    
     print(count)
      
 # Driver code          
