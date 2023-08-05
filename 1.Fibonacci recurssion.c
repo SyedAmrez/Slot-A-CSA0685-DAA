@@ -14,6 +14,7 @@ int fibonacci(int num)
         return fibonacci(num - 1) + fibonacci(num - 2); // recursively calling the fibonacc() function and then adding them
     }
 }
+
 int main()
 {
     int num; 
