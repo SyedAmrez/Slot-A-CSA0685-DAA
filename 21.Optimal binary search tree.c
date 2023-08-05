@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <limits.h>
- 
 // A utility function to get sum of array elements
 // freq[i] to freq[j]
 int sum(int freq[], int i, int j);
