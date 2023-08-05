@@ -1,7 +1,6 @@
 #include <limits.h>
 #include <stdio.h>
-int min(int x, int y, int z);
- 
+int min(int x, int y, int z); 
 int minCost(int r,int cost[r][r], int m, int n)
 {
     int i, j;
