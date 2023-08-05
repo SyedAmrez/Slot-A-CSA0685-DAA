@@ -106,6 +106,5 @@ int main()
     };
     cout << "\nOptimal Cost is "
         << findMinCost(costMatrix);
- 
     return 0;
 }
