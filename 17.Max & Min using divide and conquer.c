@@ -47,7 +47,6 @@ int main ()
  {
  	scanf ("%d",&a[i]);	
  }
-
  max = a[0];
  min = a[0];
  maxmin(1, num);
