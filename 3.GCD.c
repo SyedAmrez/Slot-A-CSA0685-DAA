@@ -2,7 +2,6 @@
 int main()
 {
     int n1, n2, i, gcd;
-
     printf("Enter two integers: ");
     scanf("%d %d", &n1, &n2);
 
