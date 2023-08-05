@@ -1,7 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
 #define V 5
- 
 void printSolution(int path[]);
 int isSafe(int v, int graph[V][V], int path[], int pos) 
 {
